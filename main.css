@@ -103,6 +103,15 @@ h1 {
   color: white;
 }
 
+.autumn2021 {
+  border: 1px solid black;
+  border-radius: 5px;
+  background-image: url("2021autumn.jpg");
+  background-size: 100%;
+  opacity: 0.8;
+  color: white;
+}
+
 .back {
   display: flex;
   flex-wrap: wrap;
